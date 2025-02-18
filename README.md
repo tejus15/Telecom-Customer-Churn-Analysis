@@ -1,6 +1,10 @@
 # Telecom-Customer-Churn-Analysis
 This repository contains my project on a End to end data science project on a Telecom Dataset. The project includes the EDA notebook and a Tableau Story for a Stakeholder Report. Project highlights:
 
+1. Tableau Story - Stakeholder Report
+2. EDA notebook
+3. custom-elt-project
+
 ## Tableau Story - Stakeholder Report
 EDA notebook
 custom-elt-project
@@ -10,13 +14,13 @@ https://public.tableau.com/views/Teleco-Churn-Analysis_17399136377210/TelecomChu
 
 The 7 page story details:
 
-Dataset Intro Statistics
-Correlation Map for feature trimming
-General Linear Model for feature selection
-Customer Demographics vs Churn
-Account Features vs Churn
-Opt-In Services vs Churn
-Q4 Revenue vs Churn
+1. Dataset Intro Statistics
+2. Correlation Map for feature trimming
+3. General Linear Model for feature selection
+4. Customer Demographics vs Churn
+5. Account Features vs Churn
+6. Opt-In Services vs Churn
+7. Q4 Revenue vs Churn
 
 ![image](https://github.com/user-attachments/assets/3cdcda42-44e6-4201-8e19-e18f26a8630e)
 
